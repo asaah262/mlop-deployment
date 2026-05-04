@@ -7,10 +7,8 @@ git clone https://github.com/asaah262/mlop-deployment
 cd mlop-deployment
 
 Usage
-python main.py
+python hello.py
+python3 hello.py
 
 Authors
 Sara, Charleson
-
-
-

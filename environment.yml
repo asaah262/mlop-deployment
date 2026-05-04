@@ -1,0 +1,8 @@
+name: project-env
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - requests
+prefix: /Users/saraahmadi/miniconda3/envs/project-env
